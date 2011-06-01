@@ -1,1 +1,7 @@
+*.pyc
 var
+.installed.cfg
+.mr.developer.cfg
+bin
+parts
+servers
