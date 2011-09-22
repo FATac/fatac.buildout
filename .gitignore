@@ -5,3 +5,5 @@ var
 bin
 parts
 servers
+develop-eggs
+src
