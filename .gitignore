@@ -7,3 +7,4 @@ parts
 servers
 develop-eggs
 src
+eggs
