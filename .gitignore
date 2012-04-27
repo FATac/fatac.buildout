@@ -8,3 +8,5 @@ servers
 develop-eggs
 src
 eggs
+downloads
+production/nginx
